@@ -1,0 +1,23 @@
+
+   Suas conclusões:
+   - Clientes com contrato mensal tem MUITO mais chance de cancelar:
+      - Podemos fazer promoções para o cliente ir para o contrato anual
+
+   - Famílias maiores tendem a cancelar menos do que famílias menores:
+      - Podemos fazer promoções para a pessoa pegar uma linha adicional 
+      de telefone
+
+   - MesesComoCliente baixos tem MUITO cancelamente, clientes com pouco
+   tempo de casa:
+      - A primeira experiência do cliente na operadora pode ser ruim
+      - Talvez a captação de clientes tá trazendo clientes desqualificados
+
+   - Quanto mais serviços o cliente tem, menos chance dele cancelar:
+      - Podemos fazer promoções com mais serviços pro cliente
+
+   - Tem alguma coisa no nosso serviço de Fibra que tá fazendo os clientes
+   cancelarem:
+      - Temos que agir sobre a Fibra
+
+   - Clientes no boleto tem MUITO mais chance de cancelar, então temos que
+   agir para eles irem para outras formas de pagamento.
